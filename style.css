@@ -204,6 +204,7 @@ main {
 
     /* REFORMATTING THE BODY */
     body {
+        background-color:black;
         margin:1rem; 
         margin-top:2rem;
         margin-right:0px;
