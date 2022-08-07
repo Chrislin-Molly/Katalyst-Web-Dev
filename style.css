@@ -236,7 +236,7 @@ main {
         display: grid;
         padding-left:10vw;
         padding-right:10vw;
-        padding-bottom: 10%;
+        padding-bottom:15rem;
         padding-top:7rem;
         grid-template-columns:1fr ;
         position:relative;
