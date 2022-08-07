@@ -251,7 +251,6 @@ main {
 
     /* MAIN AREA */
     main {
-        background-size:85%;
         background-position:bottom;
         background-image: url(img2.jpg);
         position:relative;
@@ -312,7 +311,7 @@ main {
         word-spacing:0.5rem;
         text-align: left;
         font-size:0.9rem;
-        padding-top:20rem;
+        padding-top:23rem;
         padding-right: 0rem;
         line-height:1.1rem ;  
         margin-right: 0rem;
